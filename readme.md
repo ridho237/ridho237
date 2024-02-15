@@ -16,6 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ridho237&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![](https://visitcount.itsvg.in/api?id=ridho237&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ridho237&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

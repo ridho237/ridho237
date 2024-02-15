@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Cloud Computing
 - 👯 I’m looking to collaborate anyone ^_^
 - ⚡ Fun fact: When i stuck and boring on study or coding, i watching anime with SOL genres
-[![](https://visitcount.itsvg.in/api?id=ridho237&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mridh0oo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-ridho-545782195) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ridho23) 
